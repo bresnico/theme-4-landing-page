@@ -1,5 +1,6 @@
 ---
 title: "CUA"
+navbar: false
 ---
 
 CUA coming
