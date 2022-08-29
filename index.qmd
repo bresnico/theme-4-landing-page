@@ -1,11 +1,9 @@
 ---
-title: "theme-4-landing-page"
+title: "De quoi s'agit-il ?"
 ---
 
-This is a Quarto website.
+Bienvenue dans le centre de ressources concernant le thème 4 de la formation FOCUS.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Le thème 4 est transversal. Il traverse les 3 autres thèmes.
 
-```{r}
-1 + 1
-```
+Sa nature implique un apprentissage différent des 3 autres thèmes. Il est pensé pour nourrir faciliter le partage et le développement des pratiques pédagogiques.
