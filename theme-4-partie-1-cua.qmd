@@ -4,8 +4,6 @@ navbar: true
 toc-title: "Sur cette page"
 ---
 
-Publication planifiée le 5 septembre 2022 avant midi.
-
 ## Capsules vidéos pour apprentissage en autonomie
 
 **Période d'appropriation conseillée : entre le 5 et le 23 septembre 2022**
