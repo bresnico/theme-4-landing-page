@@ -7,7 +7,7 @@ Bienvenue dans le centre de ressources concernant le thème 4 de la formation FO
 
 Le thème 4 est transversal. Il traverse les 3 autres thèmes.
 
-Sa nature implique un apprentissage différent des 3 autres thèmes. Il est pensé pour nourrir faciliter le partage et le développement des pratiques pédagogiques.
+Sa nature implique un apprentissage différent des 3 autres thèmes. Il est pensé pour faciliter le partage et le développement des pratiques pédagogiques.
 
 ## Message de bienvenue de Lionel Alvarez
 
@@ -32,7 +32,7 @@ Je vous invite d’ores et déjà à visionner cette vidéo dans laquelle je vou
 
 [Lire la vidéo](https://hepvsch-my.sharepoint.com/:v:/g/personal/nicolas_bressoud_hepvs_ch/EVU7OidlNnRDgjNEXs16jC4BJfbLkeghncqFuuI2wsebPQ?e=IeHOLU)
 
-Le reste des ressources, en débutant par la CUA, se trouvent en lien dans le menu de ce mini-site.
+Le reste des ressources, en débutant par la CUA, se trouvent en lien dans le menu de ce mini-site, en-haut de la page.
 
 Pour toutes vos questions administratives, je vous propose d’écrire à focus@hepvs.ch. Pour des questions de contenus, je vous invite à m’écrire à moi (lionel.alvarez@unifr.ch).
 
@@ -46,6 +46,7 @@ Lionel Alvarez
 ## Implication pour le processus de formation
 
 Le thème 4 est flexible et orienté vers votre pratique. Dans le cadre de la formation FOCUS, s'il fallait résumer ce qu'il implique pour vous, on pourrait dire, en 11 heures au total : 
+
 - s'approprier quelques capsules vidéos à son rythme
 - enrichir sa pratique avec l'un ou l'autre dispositif proposé, selon son intérêt
 - partager ses choix, idées, pratiques avec des collègues (communautés de pratiques) de manière totalement indépendante OU avec le soutien de la formation FOCUS
@@ -66,6 +67,7 @@ Livrer un document est à voir comme une occasion de partager et d'enrichir.
 Vous êtes des professionnel·les en cours d'emploi et nous avons créé la formation en gardant cela en tête.
 
 Pour certifier votre processus de formation, il vous faut : 
+
 - participer aux séances des thèmes 1, 2, 3
 - pour le thème 4, communiquer un document co-signé avec des collègues.
 
