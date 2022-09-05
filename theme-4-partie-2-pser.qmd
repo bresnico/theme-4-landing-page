@@ -1,6 +1,6 @@
 ---
-title: "PSER"
-navbar: false
+title: "PARTIE 2 - PSER"
+navbar: true
 ---
 
-pser coming
+Cette partie sera publiée en février 2023, selon le calendrier de la formation (calendrier visible dans l'équipe TEAMS dédiée).

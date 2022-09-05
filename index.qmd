@@ -1,5 +1,6 @@
 ---
-title: "De quoi s'agit-il ?"
+title: "Tout savoir sur le thème 4"
+toc-title: "Dans cette page"
 ---
 
 Bienvenue dans le centre de ressources concernant le thème 4 de la formation FOCUS.
@@ -7,3 +8,63 @@ Bienvenue dans le centre de ressources concernant le thème 4 de la formation FO
 Le thème 4 est transversal. Il traverse les 3 autres thèmes.
 
 Sa nature implique un apprentissage différent des 3 autres thèmes. Il est pensé pour nourrir faciliter le partage et le développement des pratiques pédagogiques.
+
+## Message de bienvenue de Lionel Alvarez
+
+:::{.callout-note}
+Cher·e·s participant·e·s à la formation FOCUS coordonnée par la HEP-VS,
+
+Permettez-moi ce message pour vous présenter le thème 4 et son orientation pratique et transversale.
+
+Le thème 4 invitera les participant·e·s, après une série de brèves capsules vidéos, à construire des contenus d'enseignement en sollicitant l'intelligence collective, à travers deux approches pédagogiques différentes :
+
+(1) la conception universelle de l'apprentissage (CUA), pour penser des environnements accueillants la diversité, et
+
+(2) un processus structuré, nommer "Planifier, surveiller, évaluer les résultats (PSE·R)", entre analyse des besoins et documentation des effets des interventions.
+
+La première soutiendra la construction d'environnements d'apprentissage pluriels, la seconde accompagnera la conception d'interventions fondées et répondants explicitement à un/des besoins.
+
+En bref, des vidéos, des communautés de pratiques et des approches pédagogiques fondées sont à l'ordre du jour.
+
+Je vous invite d’ores et déjà à visionner cette vidéo dans laquelle je vous explique les contenus et exigences associées au thème 4 : 
+
+
+
+Le reste des ressources, en débutant par la CUA, se trouvent en lien dans le menu de ce mini-site.
+
+Pour toutes vos questions administratives, je vous propose d’écrire à focus@hepvs.ch. Pour des questions de contenus, je vous invite à m’écrire à moi (lionel.alvarez@unifr.ch).
+
+Je vous souhaite beaucoup de plaisir et de débat entre vous dans le cadre de ce travail associé au thème 4 de la formation FOCUS.
+
+Meilleurs messages,
+
+Lionel Alvarez
+:::
+
+## Implication pour le processus de formation
+
+Le thème 4 est flexible et orienté vers votre pratique. Dans le cadre de la formation FOCUS, s'il fallait résumer ce qu'il implique pour vous, on pourrait dire, en 11 heures au total : 
+- s'approprier quelques capsules vidéos à son rythme
+- enrichir sa pratique avec l'un ou l'autre dispositif proposé, selon son intérêt
+- partager ses choix, idées, pratiques avec des collègues (communautés de pratiques) de manière totalement indépendante OU avec le soutien de la formation FOCUS
+- livrer à la formation FOCUS 1 seul document issu du partage avec les collègues (co-signé par tout le groupe)
+
+## Livrer un document ?
+
+Oui, lorsque nous avons dessiné la formation FOCUS, il nous a paru d'emblée fondamental de se rapprocher de vos pratiques. En livrant un document, vous vous donnez la possibilité de : 
+
+- demander un feedback professionnel à l'un·e des formateur·trices de FOCUS
+
+- créer un recueil de ressources que chaque participant·e pourra consulter.
+
+Livrer un document est à voir comme une occasion de partager et d'enrichir.
+
+## Que dois-je faire pour valider ma formation FOCUS ?
+
+Vous êtes des professionnel·les en cours d'emploi et nous avons créé la formation en gardant cela en tête.
+
+Pour certifier votre processus de formation, il vous faut : 
+- participer aux séances des thèmes 1, 2, 3
+- pour le thème 4, communiquer un document co-signé avec des collègues.
+
+C'est tout.

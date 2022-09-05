@@ -1,6 +1,6 @@
 ---
-title: "CUA"
-navbar: false
+title: "PARTIE 1 - LA CUA"
+navbar: true
 ---
 
-CUA coming
+Publication planifiée le 5 septembre 2022 avant midi.
