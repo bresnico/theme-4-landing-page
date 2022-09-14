@@ -4,3 +4,14 @@ navbar: true
 ---
 
 Cette partie sera publiée en février 2023, selon le calendrier de la formation (calendrier visible dans l'équipe TEAMS dédiée).
+
+En attendant, voici un petit *teaser* pour vous permettre d'anticiper le contenu.
+
+Le PSR·R est à voir en tant que démarche de soutien à la démarche PPI qui fait partie de la culture de l'enseignement spécialisé valaisan.
+
+Alors que la CUA (Partie 1/2 du thème 4) propose des pistes pour la pédagogie de la classe ordinaire, le PSE·R soutient, dans le réseau, la résolution de problème et l'évaluation des progrès.
+
+Voici le *teaser* : 
+
+<iframe width="640" height="360" src="https://tube.switch.ch/videos/ey3PZxcDkD
+" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
