@@ -13,5 +13,5 @@ Alors que la CUA (Partie 1/2 du thème 4) propose des pistes pour la pédagogie 
 
 Voici le *teaser* : 
 
-<iframe width="640" height="360" src="https://tube.switch.ch/videos/ey3PZxcDkD
-" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://tube.switch.ch/embed/ey3PZxcDkD" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+A bientôt !
