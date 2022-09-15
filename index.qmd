@@ -60,7 +60,17 @@ Oui, lorsque nous avons dessiné la formation FOCUS, il nous a paru d'emblée fo
 
 - créer un recueil de ressources que chaque participant·e pourra consulter.
 
-Livrer un document est à voir comme une occasion de partager et d'enrichir.
+Livrer un document est à voir comme une occasion de partager et d'enrichir. Le document est extrait de vos pratiques.
+
+## Quel type de document doit-on donc livrer en groupe ?
+
+Votre groupe (ou "communauté de pratiques") peut choisir parmi deux options :
+
+- soit le groupe s'intéresse à la partie "CUA" et se base sur le canevas proposé pour préparer sa ressource.
+
+- soit le groupe s'intéresse à la partie "PSE·R" et se base sur le canevas à venir pour préparer sa ressource.
+
+Pour que cette activité fasse sens, le comité scientifique souhaite offrir une troisième voie : une autre approche de dépôt est envisageable selon vos réalités professionnelles. Elle doit cependant être anticipée par la communauté de pratiques puis proposée et argumentée auprès du responsable de formation via focus@hepvs.ch.
 
 ## Que dois-je faire pour valider ma formation FOCUS ?
 
@@ -70,5 +80,7 @@ Pour certifier votre processus de formation, il vous faut :
 
 - participer aux séances des thèmes 1, 2, 3
 - pour le thème 4, communiquer un document co-signé avec des collègues.
+
+Le calendrier de la formation fait foi pour les dates des séances et l'échéance de dépôt de la ressources (calendrier visible dans l'équipe TEAMS de la formation FOCUS).
 
 C'est tout.
