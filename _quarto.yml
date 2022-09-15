@@ -10,7 +10,7 @@ website:
       - href: "theme-4-partie-1-cua.qmd"
         text: CUA
       - href: "theme-4-partie-2-pser.qmd"
-        text: PSER
+        text: PSE·R
         
 format:
   html:
