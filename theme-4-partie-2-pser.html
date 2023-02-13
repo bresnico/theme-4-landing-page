@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -80,13 +80,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./theme-4-partie-1-cua.html">CUA</a>
+    <a class="nav-link" href="./theme-4-partie-1-cua.html">
+ <span class="menu-text">CUA</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./theme-4-partie-2-pser.html" aria-current="page">PSE·R</a>
+    <a class="nav-link active" href="./theme-4-partie-2-pser.html" aria-current="page">
+ <span class="menu-text">PSE·R</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -114,20 +117,29 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
 
 </header>
 
-<p>Cette partie sera publiée en février 2023, selon le calendrier de la formation (calendrier visible dans l’équipe TEAMS dédiée).</p>
-<p>En attendant, voici un petit <em>teaser</em> pour vous permettre d’anticiper le contenu.</p>
-<p>Le PSR·R est à voir en tant que démarche de soutien à la démarche PPI qui fait partie de la culture de l’enseignement spécialisé valaisan. le PSE·R est moins détaillé que le PPI. Cependant, il guide de manière explicite la réflexion et la mesure de <strong>l’impact</strong> du projet.</p>
-<p>Alors que la CUA (Partie 1/2 du thème 4) propose des pistes pour la pédagogie de la classe ordinaire, le PSE·R soutient, dans le réseau, la résolution de problème et l’évaluation des progrès.</p>
-<p>Voici le <em>teaser</em> :</p>
+<p>Voici un petit <em>teaser</em> pour vous permettre d’anticiper le contenu :</p>
 <iframe width="640" height="360" src="https://tube.switch.ch/embed/ey3PZxcDkD" frameborder="0" allow="fullscreen" allowfullscreen="">
 </iframe>
-<p>A bientôt !</p>
+<p>Le PSR·R est à voir en tant que démarche de soutien à la démarche PPI qui fait partie de la culture de l’enseignement spécialisé valaisan. le PSE·R est moins détaillé que le PPI. Cependant, il guide de manière explicite la réflexion et la mesure de <strong>l’impact</strong> du projet.</p>
+<p>Alors que la CUA (Partie 1/2 du thème 4) propose des pistes pour la pédagogie de la classe ordinaire, le PSE·R (Partie 2/2 du thème 4) soutient, dans le réseau, la résolution de problème et l’évaluation des progrès :</p>
+<ol type="1">
+<li><a href="https://tube.switch.ch/videos/lcrLbdEP6g">Partie 1 sur 9</a></li>
+<li><a href="https://tube.switch.ch/videos/5xnk341YBN">Partie 2 sur 9</a></li>
+<li><a href="https://tube.switch.ch/videos/7XJkaKKvLg">Partie 3 sur 9</a></li>
+<li><a href="https://tube.switch.ch/videos/I9DfmUroSh">Partie 4 sur 9</a></li>
+<li><a href="https://tube.switch.ch/videos/k1NGuC2WJj">Partie 5 sur 9</a></li>
+<li><a href="https://tube.switch.ch/videos/PRDxBxd7NF">Partie 6 sur 9</a></li>
+<li><a href="https://tube.switch.ch/videos/evnuxOkcgQ">Partie 7 sur 9</a></li>
+<li><a href="https://tube.switch.ch/videos/UCG6EQ9oBb">Partie 8 sur 9</a></li>
+<li><a href="https://tube.switch.ch/videos/i9hAc4woXx">Partie 9 sur 9</a></li>
+</ol>
 
 
 
@@ -173,7 +185,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -209,24 +238,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
