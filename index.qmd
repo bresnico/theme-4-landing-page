@@ -16,7 +16,7 @@ Cher·e·s participant·e·s à la formation FOCUS coordonnée par la HEP-VS,
 
 Permettez-moi ce message pour vous présenter le thème 4 et son orientation pratique et transversale.
 
-Le thème 4 invitera les participant·e·s, après une série de brèves capsules vidéos, à construire des contenus d'enseignement en sollicitant l'intelligence collective, à travers deux approches pédagogiques différentes :
+Le thème 4 invitera les participant·e·s, après une série de brèves capsules vidéos, à construire sur une base volontaire des contenus d'enseignement en sollicitant l'intelligence collective, à travers, à choix, deux approches pédagogiques différentes :
 
 (1) la conception universelle de l'apprentissage (CUA), pour penser des environnements accueillants la diversité, et
 
@@ -24,7 +24,7 @@ Le thème 4 invitera les participant·e·s, après une série de brèves capsule
 
 La première soutiendra la construction d'environnements d'apprentissage pluriels, la seconde accompagnera la conception d'interventions fondées et répondants explicitement à un/des besoins.
 
-En bref, des vidéos, des communautés de pratiques et des approches pédagogiques fondées sont à l'ordre du jour.
+En bref, des vidéos, des communautés de pratiques sur base volontaire et des approches pédagogiques fondées sont à l'ordre du jour.
 
 Je vous invite d’ores et déjà à visionner cette vidéo dans laquelle je vous explique les contenus et exigences associées au thème 4 : 
 
@@ -49,12 +49,15 @@ Le thème 4 est flexible et orienté vers votre pratique. Dans le cadre de la fo
 
 - s'approprier quelques capsules vidéos à son rythme
 - enrichir sa pratique avec l'un ou l'autre dispositif proposé, selon son intérêt
-- partager ses choix, idées, pratiques avec des collègues (communautés de pratiques) de manière totalement indépendante OU avec le soutien de la formation FOCUS
-- livrer à la formation FOCUS 1 seul document issu du partage avec les collègues (co-signé par tout le groupe)
+- partager ses choix, idées, pratiques avec des collègues (communautés de pratiques) de manière totalement indépendante OU en solo.
+- rendre compte de son parcours de formation en répondant à un formulaire web : 
+
+    - soit en tant que groupe ou en solo
+    - soit avec une ressource à soumettre ou sans
 
 ## Livrer un document ?
 
-Oui, lorsque nous avons dessiné la formation FOCUS, il nous a paru d'emblée fondamental de se rapprocher de vos pratiques. En livrant un document, vous vous donnez la possibilité de : 
+Oui, lorsque nous avons dessiné la formation FOCUS, il nous a paru d'emblée fondamental de se rapprocher de vos pratiques. En livrant, sur une base volontaire, un document, vous vous donnez la possibilité de : 
 
 - demander un feedback professionnel à l'un·e des formateur·trices de FOCUS
 
@@ -62,15 +65,15 @@ Oui, lorsque nous avons dessiné la formation FOCUS, il nous a paru d'emblée fo
 
 Livrer un document est à voir comme une occasion de partager et d'enrichir. Le document est extrait de vos pratiques.
 
-## Quel type de document doit-on donc livrer en groupe ?
+## Quel type de document peut-on donc livrer en groupe ?
 
-Votre groupe (ou "communauté de pratiques") peut choisir parmi deux options :
+Vous (variante solo) ou votre groupe (ou "communauté de pratiques") peut choisir parmi trois options :
 
 - soit le groupe s'intéresse à la partie "CUA" et se base sur le canevas proposé pour préparer sa ressource.
 
 - soit le groupe s'intéresse à la partie "PSE·R" et se base sur le canevas à venir pour préparer sa ressource.
 
-Pour que cette activité fasse sens, le comité scientifique souhaite offrir une troisième voie : une autre approche de dépôt est envisageable selon vos réalités professionnelles. Elle doit cependant être anticipée par la communauté de pratiques puis proposée et argumentée auprès du responsable de formation via focus@hepvs.ch.
+- le comité scientifique souhaite offrir une troisième voie : une autre approche de dépôt est envisageable selon vos réalités professionnelles.
 
 ## Que dois-je faire pour valider ma formation FOCUS ?
 
@@ -79,8 +82,6 @@ Vous êtes des professionnel·les en cours d'emploi et nous avons créé la form
 Pour certifier votre processus de formation, il vous faut : 
 
 - participer aux séances des thèmes 1, 2, 3
-- pour le thème 4, communiquer un document co-signé avec des collègues.
+- pour le thème 4 : rendre compte de son activité via le formulaire web ad hoc.
 
-Le calendrier de la formation fait foi pour les dates des séances et l'échéance de dépôt de la ressources (calendrier visible dans l'équipe TEAMS de la formation FOCUS).
-
-C'est tout.
+Le calendrier de la formation fait foi.

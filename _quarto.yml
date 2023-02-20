@@ -11,7 +11,8 @@ website:
         text: CUA
       - href: "theme-4-partie-2-pser.qmd"
         text: PSE·R
-        
+      - href: "Depot.qmd"
+        text: Clore la formation
 format:
   html:
     theme: cosmo
