@@ -24,6 +24,6 @@ Vos informations permettent de comprendre quels sont les contenus qui ont fait s
 
 ## Formulaire web
 
-Le formulaire web est accessible via ce lien **[à venir]**.
+Le formulaire web est accessible via [ce lien](https://forms.office.com/e/NwngrdfgtX).
 
-Veuillez noter que si vous ou votre groupe avez une ressource à déposer, celle-ci devra être téléchargée sur notre espace Teams (consignes dans le formulaire web).s
+Veuillez noter que si vous ou votre groupe avez une ressource à déposer, celle-ci devra être téléchargée sur notre espace Teams (consignes dans le formulaire web).
